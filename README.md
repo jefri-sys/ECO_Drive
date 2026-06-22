@@ -34,3 +34,5 @@ Ecodrive is a comprehensive system that facilitates EV service centers with feat
 <img width="335" height="260" alt="image" src="https://github.com/user-attachments/assets/5c758ac8-6aa5-4d57-99d7-5b00eeeecf4b" />
 
 <img width="335" height="260" alt="image" src="https://github.com/user-attachments/assets/1571d619-e82c-4686-9529-25c436c35261" />
+**Tech Stack**
+ PHP | MySQL | JavaScript
